@@ -10,6 +10,7 @@ Gaussian processes (GPs) are non-parametric, flexible, models that work well in 
 install this repo via
 ```bash
 git clone https://github.com/IdanAchituve/GP-Tree.git
+cd GP-Tree
 pip install -e .
 ```
 
